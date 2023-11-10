@@ -44,7 +44,11 @@
 		<data>
 		0KoK6nTS9xgY0AwZhuQ7j7r/Fho=
 		</data>
-		<key>Resources/Memes/GooseDance.gif</key>
+		<key>Resources/Memes/gandalf-sax-guy.gif</key>
+		<data>
+		40Czc+jiTp8qVVUS9xT6wCBiy04=
+		</data>
+			<key>Resources/Memes/GooseDance.gif</key>
 		<data>
 		40Czc+jiTp8qVVUS9xT6wCBiy04=
 		</data>	
@@ -441,6 +445,17 @@
 			</data>
 		</dict>
 		<key>Resources/Memes/GooseDance.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			40Czc+jiTp8qVVUS9xT6wCBiy04=
+			</data>
+			<key>hash2</key>
+			<data>
+			8dRtU4NI7CQF86aCkQKbBiEp2CU94nXiJYTiJTmYnoo=
+			</data>
+		</dict>
+		<key>Resources/Memes/gandalf-sax-guy.gif</key>
 		<dict>
 			<key>hash</key>
 			<data>
